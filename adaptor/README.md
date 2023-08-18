@@ -1,0 +1,1 @@
+![image](../assets/adapter_uml.png)
